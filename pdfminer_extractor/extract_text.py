@@ -20,4 +20,5 @@ if __name__ == "__main__":
         print("Extracted Text:")
         print(extracted_text)
     else:
-        print(f"Error: File {pdf_path} not found") 
+        print(f"Error: File {pdf_path} not found")
+        #ss
